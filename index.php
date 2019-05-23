@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="css/style.css"/>
 </head>
 <body>
-
+fdggdc
 <?php require_once('view/header.php')?> 
 <?php require_once('app/rooter.php') ?>
 <?php require_once('view/footer.php') ?>
